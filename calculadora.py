@@ -21,3 +21,11 @@ def resta():
 print(resta())
 
 
+#Metodo multiplicar
+
+def multiplicacion():
+    result = 5*10
+    return result
+
+print(multiplicacion())
+
