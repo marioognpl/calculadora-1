@@ -10,3 +10,14 @@ def suma():
     return result
 
 print(suma())
+
+
+#Metodo restar
+
+def resta():
+    result = 10-2
+    return result
+
+print(resta())
+
+
