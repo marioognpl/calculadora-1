@@ -29,3 +29,11 @@ def multiplicacion():
 
 print(multiplicacion())
 
+#Metodo division
+
+def division():
+    result = 5/10
+    return result
+
+print(division())
+
