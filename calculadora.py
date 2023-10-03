@@ -38,7 +38,7 @@ def division():
 
 print(division())
 
-#Metodo calcular potencia
+#Metodo calcular potencia editamos esta linea para crear mas tarde conflictos
 
 def  potencia():
      result = 5 **2
