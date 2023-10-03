@@ -5,6 +5,7 @@ print("Content-type: text/html\n")
 
 #Metodo sumar el cambio ha sido realizado en esta linea
 
+
 def suma():
     result = 5 + 3
     return result
@@ -37,3 +38,8 @@ def division():
 
 print(division())
 
+#Metodo calcular potencia
+
+def  potencia():
+     result = 5 **2
+     return result
